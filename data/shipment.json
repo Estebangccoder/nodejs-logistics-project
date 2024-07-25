@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "item": "Leche",
+    "quantity": 100,
+    "warehouseId": {
+      "warehouse": {
+        "id": 1,
+        "name": "Medellin",
+        "location": "Avenida siempre Viva"
+      }
+    }
+  }
+]

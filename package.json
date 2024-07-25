@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-logistics-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estebangccoder/nodejs-logistics-project.git"
+  },
+  "author": "Edson Esteban Garcia Cuesta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estebangccoder/nodejs-logistics-project/issues"
+  },
+  "homepage": "https://github.com/Estebangccoder/nodejs-logistics-project#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "type": "module"
+}
